@@ -1,2 +1,2 @@
-# rushi_bhure-
+# rushi_bhure
 My First Repository
